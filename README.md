@@ -1,6 +1,7 @@
 # Binary Decision Tree
 Matlab implementation of recursive binary decision tree on MONK datasets.
-this was done as a college assignment.
+
+this was done as a college assignment about a year ago.
 
 
 in part A, a simple decision tree is made for 3 monk datasets and accuracies are calculated.
