@@ -8,7 +8,7 @@ in part A, a simple decision tree is made for 3 monk datasets and accuracies are
 
 in part B, the same tree on these data sets are pruned using "Reduced Error Pruning" algorithm.
 
-part C is just a comparison between first 2 parts.
+part C is just a comparison between the first 2 parts.
 
 MONK: https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems
 
