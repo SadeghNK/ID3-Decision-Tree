@@ -11,3 +11,5 @@ in part B, the same tree on these data sets are pruned using "Reduced Error Prun
 part C is just a comparison between first 2 parts.
 
 MONK: https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems
+
+Reduced Error Pruning: http://www.di.uniba.it/~malerba/publications/PAMI97.pdf
