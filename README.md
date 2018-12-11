@@ -1,4 +1,4 @@
-# binary-Decision-Tree
+# Binary Decision Tree
 Matlab implementation of recursive binary decision tree on MONK datasets.
 this was done as a college assignment.
 
